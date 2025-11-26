@@ -35,7 +35,7 @@ docker compose -f environment/compose.yml start
 
 ### Accessing JupyterLab
 
-When it's done spinning up, the container will be accessible via any webbrowser on the host machine at `http://localhost:PORT_NUMBER/` (eg. http://localhost:10000).
+When it's done spinning up, the container will be accessible via any webbrowser on the host machine at `http://localhost:10062/` (eg. http://localhost:10062).
 
 
 ## Stopping a container
